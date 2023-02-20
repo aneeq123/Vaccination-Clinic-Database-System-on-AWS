@@ -1,0 +1,25 @@
+1.Sign in to the AWS Management Console and navigate to the EC2 service.
+
+2.Click the "Launch Instance" button to start the EC2 instance creation wizard.
+
+3.Choose an Amazon Machine Image (AMI) that supports MariaDB, such as Amazon Linux or Ubuntu.
+
+4.Select an instance type based on the size and performance requirements of your database. A general-purpose instance like the t3.small or t3.medium is usually sufficient for small to medium-sized databases.
+
+5.Configure the instance details, including the network settings, security groups, and storage options.
+
+6.In the "Configure Security Group" step, add a new rule to allow incoming traffic on the default MariaDB port 3306. This will enable remote access to the database from other systems.
+
+7.Review the instance details and click "Launch" to create the instance.
+
+8.Once the instance is launched, connect to it using SSH and install MariaDB using the package manager of your operating system.
+
+9.After installing MariaDB, configure it according to your requirements, such as creating a database, creating a user with appropriate permissions, and configuring backup and recovery.
+
+10.Once MariaDB is configured and running, test the connection to the database from a remote client.
+
+
+--------------------------------------------
+
+Keep in mind that these are general steps, and the exact process may vary depending on the specific configuration and requirements of your environment. 
+It is recommended to follow AWS documentation and best practices when creating and configuring EC2 instances to ensure they are secure, scalable, and performant.
