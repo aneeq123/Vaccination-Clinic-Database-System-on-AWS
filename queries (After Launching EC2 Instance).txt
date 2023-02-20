@@ -1,0 +1,9 @@
+#Enter the server
+
+mysql -uroot-p;
+
+#Type your password
+
+password: 
+
+
