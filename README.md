@@ -26,7 +26,7 @@ The database system will be created using an EC2 instance running MariaDB, and S
 -  Maria DB: Used to create and manage the database system.
 -  SQL: Used to create tables and perform queries on the database system
 
-![EC2 Instance hosting MariaDB(Interface) ](screenshot/MariaDB  Interface (AWS).PNG)
+![EC2 Instance hosting MariaDB(Interface)](https://github.com/aneeq123/Vaccination-Clinic-Database-System-on-AWS/blob/fa7f974f9cff9d2f1f97ec8c5ae3ab099082ff54/screenshot/MariaDB%20%20Interface%20(AWS).PNG)
 
 
 
