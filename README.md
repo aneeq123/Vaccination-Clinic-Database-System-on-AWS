@@ -17,6 +17,8 @@ The following tables will be included in the database system:
 5. Consultations: Includes consultation information such as consultation ID, medical staff ID, appointment ID, and consultation details.
 6. Administers: Includes information about the administration of vaccines such as administer ID, medical staff ID, appointment ID, and vaccine information.
 
+![ERD Diagram)](https://github.com/aneeq123/Vaccination-Clinic-Database-System-on-AWS/blob/d011c7b502a40178fdea7fe122c61623a694b00a/screenshot/ERDDiagram.PNG)
+
 # Technology Used
 
 The database system will be created using an EC2 instance running MariaDB, and SQL will be used to create the tables and perform various queries. The tools used are:
@@ -39,3 +41,10 @@ Secondly, AWS provides flexible and scalable infrastructure that can grow with t
 Finally, AWS provides cost-effective solutions for running the database system. With AWS, the clinic only pays for the resources it uses, and can easily scale up or down as needed. This ensures that the clinic can provide quality services without breaking the bank.
 
 In summary, creating a database system for a vaccination clinic on AWS provides a highly secure, reliable, scalable, and cost-effective solution for managing patient data
+
+# Conclusion
+
+
+this project demonstrates how to create a database system for a vaccination clinic using Amazon Web Services (AWS). By using an EC2 instance running MariaDB and SQL queries, we can create tables, insert data, create procedures, and perform various actions on the data. The project can be extended by adding more tables and procedures, and by creating a front-end application to interact with the database system.
+
+
