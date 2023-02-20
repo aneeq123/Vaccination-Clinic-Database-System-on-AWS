@@ -41,3 +41,10 @@ Secondly, AWS provides flexible and scalable infrastructure that can grow with t
 Finally, AWS provides cost-effective solutions for running the database system. With AWS, the clinic only pays for the resources it uses, and can easily scale up or down as needed. This ensures that the clinic can provide quality services without breaking the bank.
 
 In summary, creating a database system for a vaccination clinic on AWS provides a highly secure, reliable, scalable, and cost-effective solution for managing patient data
+
+# Conclusion
+
+
+this project demonstrates how to create a database system for a vaccination clinic using Amazon Web Services (AWS). By using an EC2 instance running MariaDB and SQL queries, we can create tables, insert data, create procedures, and perform various actions on the data. The project can be extended by adding more tables and procedures, and by creating a front-end application to interact with the database system.
+
+
